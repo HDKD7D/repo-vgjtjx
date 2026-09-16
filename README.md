@@ -1,8 +1,10 @@
 2026/09/16 14:58:38
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: ruthanndanley@yahoo.com, ingridep@comcast.net
-At: 2026-09-16 14:59:36
-Id: 6toAWc8Q
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: trackfrmygz@aol.com, breannev15@aol.com
+At: 2026-09-16 15:00:15
+Id: Gv55hHlH
